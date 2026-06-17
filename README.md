@@ -4,7 +4,6 @@
 
 A clean, responsive, and modern user registration form built using HTML and CSS. This project serves as a sleek UI starter template for user authentication and sign-up flows.
 
----
 
 ##  Features
 
@@ -13,7 +12,6 @@ A clean, responsive, and modern user registration form built using HTML and CSS.
 * **Fully Responsive:** Adapts seamlessly to various desktop and mobile screen sizes.
 * **User-Friendly UX:** Structured hierarchy with bold, legible labels and intuitive spacing.
 
----
 
 ## Preview
 
@@ -21,14 +19,12 @@ Below is the user interface design for this registration form:
 
 ![Registration Form Preview](./Registration-form.jpg)
 
----
 
 ##  Tech Stack
 
 * **HTML5:** Structured semantic markup for form elements.
 * **CSS3:** Flexbox/Grid layout, custom border-radii, drop shadows, and responsive media queries.
 
----
 
 ## Form Fields Included
 
